@@ -1,0 +1,5 @@
+bin/
+build/
+build/.vs
+build/amqp
+build/test
